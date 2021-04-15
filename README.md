@@ -23,6 +23,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Electron-informational?style=flat&logo=electron&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
