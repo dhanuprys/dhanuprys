@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Dhanu Purnayasa and I'm a web developer and tool maker. I'm from Indonesia, living in Bali and is now a student. You can find me on [![Twitter][1.2]][1],  or on [![Instagram][3.2]][3].
+My name is Dhanu Purnayasa and I'm a web developer and tool maker. I'm from Indonesia, living in Bali and is now a student. You can find me on [![Twitter][1.2]][1].
 
 <!-- 
 ## &#x270d; Blog & Writing
