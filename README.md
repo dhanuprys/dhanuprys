@@ -14,6 +14,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Board-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Board-RaspberryPI-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
