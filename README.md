@@ -1,67 +1,52 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+# 👋 Hi, I'm Gede Dhanu Purnayasa!  
+🚀 Fullstack Software Developer  
 
-<!--[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)-->
+[![GitHub](https://img.shields.io/badge/GitHub-dhanuprys-181717?style=for-the-badge&logo=github)](https://github.com/dhanuprys)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=react)](https://your-portfolio.com)  
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+---
 
-My name is Dhanu Purnayasa and I'm a web developer and tool maker. I'm from Indonesia, living in Bali and is now a student. You can find me on [![Twitter][1.2]][1].
+### 🛠️ About Me  
+I'm a passionate **Fullstack Developer** who loves building scalable web applications, especially in **Single Sign-On (SSO)** solutions.  
 
-<!-- 
-## &#x270d; Blog & Writing
+🔹 Currently working on a project at **[SMK Negeri 3 Singaraja](https://github.com/smkn3singaraja)**  
+🔹 Building a **custom SSO system** for better authentication & user management  
+🔹 Experienced with **Node.js, PHP, Laravel, React, Inertia.js, PostgreSQL, and Kubernetes**  
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). 
--->
+---
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Board-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Board-RaspberryPI-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Electron-informational?style=flat&logo=electron&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+### ⚡ Tech Stack  
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-CA4245?style=flat&logo=inertia&logoColor=white)  
 
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
 
-## &#x1f4c8; GitHub Stats
+**Database:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 
-<a href="https://github.com/dhanuprys/dhanuprys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanuprys&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/dhanuprys/dhanuprys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanuprys&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+**DevOps:**  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
-<!-- links to social media icons -->
+---
 
-<!-- icons with padding -->
+### 📌 Latest Projects  
+- **[SMK Negeri 3 Singaraja SSO](https://github.com/smkn3singaraja)** – A **Single Sign-On system** to streamline authentication  
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+---
 
-<!-- icons without padding -->
+### 📫 Get in Touch  
+💌 Reach me at **your.email@example.com**  
+🌐 Visit my portfolio: **[your-portfolio.com](https://your-portfolio.com)**  
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+---
 
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/dhanuprys
-[2]: https://github.com/dhanuprys
-[3]: https://instagram.com/dhanuprys
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
