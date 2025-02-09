@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Gede Dhanu Purnayasa!  
 🚀 Fullstack Software Developer  
 
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=dhanuprys)
+
 [![GitHub](https://img.shields.io/badge/GitHub-dhanuprys-181717?style=for-the-badge&logo=github)](https://github.com/dhanuprys)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=react)](https://your-portfolio.com)  
