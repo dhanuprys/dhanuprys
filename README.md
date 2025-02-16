@@ -46,7 +46,7 @@ I'm a passionate **Fullstack Developer** who loves building scalable web applica
 ---
 
 ### 📫 Get in Touch  
-💌 Reach me at **your.email@example.com**  
+💌 Reach me at **dhanuprys@gmail.com**  
 🌐 Visit my portfolio: **[your-portfolio.com](https://your-portfolio.com)**  
 
 ---
