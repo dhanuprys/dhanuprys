@@ -24,16 +24,6 @@
 A custom Single Sign-On platform integrating Laravel, Inertia.js, and Kubernetes to streamline authentication across school applications.  
 [View Repository](https://github.com/smkn3singaraja)
 
-### **Project X**
-A real-time analytics dashboard built with React and Socket.IO for live data visualization.  
-[View Repository](https://github.com/dhanuprys/project-x)
-
-### **Project Y**
-API-first microservice with JWT authentication and rate limiting using Express and Redis.  
-[View Repository](https://github.com/dhanuprys/project-y)
-
-*More projects in my GitHub profile!* 🔗
-
 ---
 
 ## 🌱 Learning & Growth
