@@ -28,7 +28,7 @@ A custom Single Sign-On platform integrating Laravel, Inertia.js, and Kubernetes
 
 ## 🌱 Learning & Growth
 
-- Currently exploring **Kubernetes Operators** and **Microservices Patterns**.  
+- Currently exploring **Clean Architecture**, **Kubernetes Operators** and **Microservices Patterns**.  
 - Deepening knowledge in **OAuth2** and **OpenID Connect** for advanced SSO flows.
 
 ---
