@@ -6,7 +6,7 @@
 
 # 👋 Hello, I’m **Gede Dhanu Purnayasa**
 
-**Junior Fullstack Software Developer**
+Follow my journey [here](https://github.com/dhanuprys/the-journey)
 
 ---
 
