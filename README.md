@@ -35,6 +35,8 @@ A custom Single Sign-On platform integrating Laravel, Inertia.js, and Kubernetes
 
 ## 📫 Connect With Me
 
+[![Gede Dhanu Purnayasa profile views](https://u8views.com/api/v1/github/profiles/60138440/views/day-week-month-total-count.svg)](https://u8views.com/github/dhanuprys)
+
 - ✉️ Email: [dhanuprys@gmail.com](mailto:dhanuprys@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/dhanuprys](https://linkedin.com/in/dhanuprys)  
 - 🌐 Portfolio: [dedan.my.id](https://dedan.my.id)
