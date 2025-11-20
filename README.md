@@ -12,9 +12,9 @@
 
 ## 🛠️ What I Do
 
-- 🔹 **Design & Develop:** Crafting responsive frontends with **React**, **Inertia.js**, and **Tailwind CSS**.
-- 🔹 **API & Backends:** Building robust RESTful services using **Node.js**, **Express**, **Laravel**, and **PHP**.
-- 🔹 **Data & DevOps:** Managing **PostgreSQL** data, caching with **Redis**, and container orchestration via **Docker** & **Kubernetes**.
+- **Design & Develop:** Crafting responsive frontends with **React**, **Inertia.js**, and **Tailwind CSS**.
+- **API & Backends:** Building robust RESTful services using **Node.js**, **Express**, **Laravel**, and **PHP**.
+- **Data & DevOps:** Managing **PostgreSQL** data, caching with **Redis**, and container orchestration via **Docker** & **Kubernetes**.
 
 ---
 
